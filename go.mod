@@ -1,4 +1,4 @@
-module github.com/jianyuan/terraform-provider-sentry
+module github.com/borysbabii/terraform-provider-sentry
 
 require (
 	cloud.google.com/go v0.50.0 // indirect
@@ -13,7 +13,7 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk v1.4.1
 	github.com/hashicorp/terraform-svchost v0.0.0-20191119180714-d2e4933b9136 // indirect
 	github.com/hashicorp/yamux v0.0.0-20190923154419-df201c70410d // indirect
-	github.com/jianyuan/go-sentry v1.2.1-0.20191201111848-212d47039109
+	github.com/borysbabii/go-sentry v1.2.1
 	github.com/jstemmer/go-junit-report v0.9.1 // indirect
 	github.com/mattn/go-isatty v0.0.11 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
